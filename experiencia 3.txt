@@ -1,0 +1,6 @@
+
+#EXTM3U 
+#EXTINF:-1 
+https://static-l3.xvideos-cdn.com/v3/img/skins/common/blank.mp4
+#EXTINF:-2
+https://hls2-l3.xvideos-cdn.com/4afc067b755c2b785b72b19e7d21c2dc4799dce0-1615232747/videos/hls/af/75/63/af7563827caea6cff943390494b31447/hls-720p-ddd1a.m3u8
